@@ -200,7 +200,7 @@ export default function App() {
           </h2>
           
           <p className="text-[#c9184a] text-2xl font-medium leading-relaxed italic">
-            "I'm just really glad you were born. The world is a lot better with you in it. ✨"
+            "I'm just really glad you were born, sister. The world is a lot better with you in it. ✨"
           </p>
           
           <div className="pt-20 space-y-4">
@@ -213,7 +213,6 @@ export default function App() {
       </section>
 
       <footer className="py-12 text-center opacity-20 text-[10px] tracking-[0.5em] uppercase text-brand-rose font-bold">
-        A premium digital gift ✨ 2026
       </footer>
     </div>
   );

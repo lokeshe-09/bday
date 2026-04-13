@@ -71,7 +71,7 @@ export default function IntroGift({ onComplete }: { onComplete: () => void }) {
                 animate={{ opacity: 1, y: 0 }}
                 className="mt-8 font-serif text-3xl text-[#c9184a] italic tracking-widest drop-shadow-sm font-medium"
               >
-                Tap to open your world... sister
+                Tap to open Sister....
               </motion.p>
             )}
           </motion.div>
